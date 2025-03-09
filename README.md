@@ -1,7 +1,5 @@
 # taggify
-"Taggify," is a desktop-based email organization tool that automates email categorization using keywords and assigns priority levels based on content urgency. 
-
-The project, named "Taggify," is a desktop-based email organization tool that automates email categorization using keywords and assigns priority levels based on content urgency. This tool, implemented in Python, is designed for users who need a streamlined way to organize, access, and manage their emails by tagging and prioritizing based on the email content.
+"Taggify," is a desktop-based email organization tool that automates email categorization using keywords and assigns priority levels based on content urgency. This tool, implemented in Python, is designed for users who need a streamlined way to organize, access, and manage their emails by tagging and prioritizing based on the email content.
 ## Functionality
 1.	Fetches emails from a specified Outlook inbox.
 2.	Categorizes emails by matching keywords in the subject or body to predefined tags, such as "work," "important," or "urgent."
